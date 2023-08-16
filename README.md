@@ -6,7 +6,7 @@
 [Modelo 2](https://cauathiago.github.io/projeto-relogio/PROJETO-RELOGIO/VOLUME-2/index.html)
 
 
-<img src="https://cdn-icons-png.flaticon.com/256/8158/8158516.png" align="center" width="250"> <br>
+<img src="https://cdn-icons-png.flaticon.com/256/8158/8158516.png" width="250"> <br>
 
 ## 😃DESCRIÇÃO:
 Bem-vindo ao projeto "Relógio"! Este repositório contém uma implementação de um relógio em tempo real, criado com HTML, CSS e JavaScript, que pode ser executado diretamente em seu navegador.
