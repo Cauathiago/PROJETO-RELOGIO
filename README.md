@@ -2,8 +2,8 @@
 😎RODE ESSES RELOGIOS EM JAVASCRIPT NO SEU NAVEGADOR.
 
 ## 🤖Veja rodando ao vivo:
-[Modelo 1](https://cauathiago.github.io/projeto-relogio/PROJETO-RELOGIO/VOLUME-1/index.html)
-[Modelo 2](https://cauathiago.github.io/projeto-relogio/PROJETO-RELOGIO/VOLUME-2/index.html)
+[Modelo 1](https://cauathiago.github.io/projeto-relogio/VOLUME-1/index.html)
+[Modelo 2](https://cauathiago.github.io/projeto-relogio/VOLUME-1/index.html)
 
 
 <img src="https://cdn-icons-png.flaticon.com/256/8158/8158516.png" width="250"> <br>
